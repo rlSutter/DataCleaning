@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DataCleaning", "..\DataCleaning", "{844BFD62-E96E-4888-A7F3-9B66EFB6BD6D}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/DataCleaning"
+		Debug.AspNetCompiler.PhysicalPath = "..\DataCleaning\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\DataCleaning\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/DataCleaning"
+		Release.AspNetCompiler.PhysicalPath = "..\DataCleaning\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\DataCleaning\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "62794"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://hcitfs2012:8080/tfs/hci_applications
+		SccLocalPath0 = .
+		SccWebProject1 = true
+		SccProjectUniqueName1 = .
+		SccLocalPath1 = .
+		SccProjectEnlistmentChoice1 = 2
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{844BFD62-E96E-4888-A7F3-9B66EFB6BD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844BFD62-E96E-4888-A7F3-9B66EFB6BD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844BFD62-E96E-4888-A7F3-9B66EFB6BD6D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{844BFD62-E96E-4888-A7F3-9B66EFB6BD6D}.Debug|x64.Build.0 = Debug|Any CPU
+		{844BFD62-E96E-4888-A7F3-9B66EFB6BD6D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{844BFD62-E96E-4888-A7F3-9B66EFB6BD6D}.Debug|x86.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<!-- 
+  Visual Studio global web project settings.
+-->
+<VisualWebDeveloper>
+
+  <comReferences>
+    <reference Name="interop.addressobjectlib" ID="{A082D3F1-49ED-11D3-990D-004005439021}\1.0\0"/>
+  </comReferences>
+</VisualWebDeveloper>
